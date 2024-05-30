@@ -5,3 +5,7 @@ In this video, I will walk through the process of creating a full To-do List app
 Next,cover the creation of controllers and resource controllers to handle our application logic.define routes to map URLs to our controllers and ensure our application follows proper routing practices.
 
 Validation and error handling are crucial aspects of any web application, so demonstrate how to implement validation and display error messages. Finally, create beautiful and responsive views using Blade templating engine.
+
+Db name: laravel_curd_app_db
+Db username: root
+Db password: Mysqlisbest@1
